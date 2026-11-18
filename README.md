@@ -11,18 +11,18 @@ The system takes a URL from the user, extracts important URL features, sends the
 How the Project Works
 
 text
-User enters URL
-       ↓
-URL Feature Extraction
-       ↓
-9 URL-level Features
-       ↓
-Random Forest ML Model
-       ↓
+User enters URL-
+       
+URL Feature Extraction-
+       
+9 URL-level Features-
+       
+Random Forest ML Model-
+       
 Prediction
-       ↓
+       
 PHISHING / LEGITIMATE
-       ↓
+       
 Streamlit Dashboard
 
 
