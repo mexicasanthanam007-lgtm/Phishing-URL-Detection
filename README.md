@@ -11,15 +11,16 @@ The system takes a URL from the user, extracts important URL features, sends the
 How the Project Works
 
 text
-1.User enters URL
+
+1 . User enters URL
        
-2.URL Feature Extraction
+2 . URL Feature Extraction
        
-3.9 URL-level Features
+3 . 9 URL-level Features
        
-4.Random Forest ML Model
+4 . Random Forest ML Model
        
-5.Prediction
+5 . Prediction
        
 PHISHING / LEGITIMATE
        
